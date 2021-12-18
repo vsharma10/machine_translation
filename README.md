@@ -1,5 +1,5 @@
 # Introduction
-In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
+In this notebook, a deep neural network was built that functions as part of an end-to-end machine translation pipeline. The completed pipeline accepts English text as input and returns the French translation.
 
 # Setup
 
